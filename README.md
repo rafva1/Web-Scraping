@@ -16,3 +16,8 @@ Ficheros entregados:
 * **PRAC1.pdf**: respuesta a las preguntas planteadas en la práctica.
 
 ***
+
+Librerías utilizadas:
+
+`pip install requests`<br>
+`pip install beautifulsoup4`
